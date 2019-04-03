@@ -1,3 +1,6 @@
+This is a sample scraping project that scrapes University of Chicago course pages to get the course information. 
+This uses a custom queue implementation to scrape subpages in a parent page.
+
 # Scraping Test
 
 Steps to run :
